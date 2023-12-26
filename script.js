@@ -6,6 +6,6 @@ function expandImage() {
 
 function redirectToAnotherSite() {
     setTimeout(() => {
-        window.location.href = 'index2.html';
+        window.location.href = 'https://duckyjuls.github.io/website-drawings/';
     }, 500); 
 }
